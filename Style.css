@@ -360,7 +360,7 @@ body {
     background: rgb(61, 60, 60);
     opacity: 0.5;
 
-    z-index: 4;
+    z-index: 150;
     position: fixed;
     top: 0;
     display:none;
@@ -1001,3 +1001,4 @@ input[type="text"]  {
 
 
 }
+
